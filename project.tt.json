@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "nested-scroll-view",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
